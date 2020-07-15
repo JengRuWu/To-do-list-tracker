@@ -19,7 +19,7 @@
 
 * You can cross out a to-do item by clicking on it. You can undo it by clicking on the item agian.
 
-![image](https://github.com/JengRuWu/To-do-list-tracker/blob/master/Pictures/Cross out.png)
+![image](https://github.com/JengRuWu/To-do-list-tracker/blob/master/Pictures/Cross%20out.png)
 
 * A delete button will show when you hover over a to-do item.
 
