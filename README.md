@@ -1,6 +1,6 @@
 # To-do-list-tracker
 
-* This to-do list tracker is written in html/css/javascript.
+* This to-do list tracker is written in HTML, CSS and JavaScript.
 * You can add, remove and crossout to-do items with this tracker.
 
 # Guide
